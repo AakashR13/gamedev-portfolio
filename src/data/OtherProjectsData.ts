@@ -3,7 +3,8 @@ import ProjectData from '@/data/ProjectData.ts'
 export default [
     new ProjectData("project-6", "Cheat Codes", "img/projects/CheatCodes_01.jpeg", `
     <div class="paragraph">
-      <strong>Cheat Codes</strong> is my club's flagship event conducted every year for our university's annual cultural fest.
+      <strong>Get-ExecutionPolicy
+Cheat Codes</strong> is my club's flagship event conducted every year for our university's annual cultural fest.
       <br/><a href="" target="blank"></a>
             </div>
             <div class="paragraph center">

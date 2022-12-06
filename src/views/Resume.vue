@@ -17,9 +17,7 @@
         <div style="clear:both"></div>
       </div>
     </div>
-    <div class="photo">
-      <img src="img/" alt="Photo of Aakash" />
-    </div>
+
 
     <div style="clear:both"></div>
 

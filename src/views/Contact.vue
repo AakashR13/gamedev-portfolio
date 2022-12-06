@@ -19,10 +19,6 @@
         <a href="https://github.com/AakashR13" target="_blank">github.com/AakashR13</a>
       </li>
       <li>
-        <i class="fa fa-gamepad fa-lg fa-fw"></i>
-        <a href="https://aakashr13.itch.io" target="_blank">aakashr13.itch.io</a>
-      </li>
-      <li>
         <i class="fa fa-brands fa-discord fa-lg fa-fw"></i>
         <a href="https://discordapp.com/users/719612400474521720" target="_blank">discordapp.com/DraconX13</a>
       </li>

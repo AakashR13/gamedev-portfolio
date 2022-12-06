@@ -1,11 +1,11 @@
 <template>
   <div style="margin-bottom: 80px;">
-    <h1>Hello!</h1>
+    <h1>Hi There!</h1>
 
     <div class="paragraph">
       <div>
-        I'm <strong>Aakash Reddy</strong>, an 3rd-year undergraduate student at International Institute of Information Technology Hyderabad.<br/>
-       I spend my days glued to my laptop screen grinding video games, petting furries and reading books. I'm a sucker for Souls-like games and love a challenge above all else.
+        I'm <strong>Aakash Reddy</strong>, a 3rd-year undergraduate student at International Institute of Information Technology Hyderabad.<br/>
+       I spend my days glued to my laptop screen grinding video games, petting furries and reading books. I'm a sucker for Souls-like games and love challenges.
       </div>
 
       <div style="margin-top: 20px;">I've worked on a few <router-link to="/game-projects">games</router-link>(mostly as a personal interest), on other <router-link to="/other-projects">tech and management</router-link> related activities, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
@@ -14,7 +14,7 @@
     </div>
 
     <div class="photo">
-      <img src="img/" alt="Avatar of Aakash" /> 
+      <img src="img/AakashLogo(250).png" alt="Avatar of Aakash" /> 
     </div>
 
     <div style="clear:both"></div>

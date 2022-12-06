@@ -30,7 +30,7 @@ export default [
     `, "#23bd69", true),
 
 
-    new ProjectData("project-2", "Gears", "img/projects/project-2-icon.png", `
+    new ProjectData("project-2", "Gears", "img/projects/Gears_Logo.png", `
     <div class="paragraph">
         <strong>Gears</strong> is primarily an early-stage interactive application and rendering engine for Windows. Currently in development.
     </div>
@@ -117,9 +117,6 @@ export default [
         Main features :
         <ul>
         <li>Showcases graphics capabilities of Unreal Engine 5</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
         </ul>
     </div>
 
