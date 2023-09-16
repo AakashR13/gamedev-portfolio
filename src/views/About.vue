@@ -4,8 +4,8 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>Aakash Reddy</strong>, a 3rd-year undergraduate student at International Institute of Information Technology Hyderabad.<br/>
-       I spend my days glued to my laptop screen grinding video games, petting furries and reading books. I'm a sucker for Souls-like games and love challenges.
+        I'm <strong>Aakash Reddy</strong>, a final-year undergraduate student at International Institute of Information Technology Hyderabad.<br/>
+       I spend my days glued to my laptop screen grinding video games, swimming, and reading books. I'm a sucker for Souls-like games and love challenges.
       </div>
 
       <div style="margin-top: 20px;">I've worked on a few <router-link to="/game-projects">games</router-link>(mostly as a personal interest), on other <router-link to="/other-projects">tech and management</router-link> related activities, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
